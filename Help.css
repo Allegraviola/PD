@@ -1,0 +1,128 @@
+ .u-section-1 {
+  background-image: url("images/he_bg1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 0.9375rem;
+  background-image: none;
+  font-weight: 700;
+  font-family: bahnschrift;
+  margin: 443px auto 0 515px;
+  padding: 8px 33px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 0.9375rem;
+  background-image: none;
+  font-weight: 700;
+  font-family: bahnschrift;
+  margin: -40px auto 0 713px;
+  padding: 8px 33px;
+}
+
+.u-section-1 .u-btn-3 {
+  font-size: 0.9375rem;
+  background-image: none;
+  font-weight: 700;
+  font-family: bahnschrift;
+  margin: -40px auto 60px 298px;
+  padding: 8px 33px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 315px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 513px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 98px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 95px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 293px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 113px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+} .u-section-2 {
+  background-image: url("images/he_bg2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  margin: 379px 546px 0 26px;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  font-size: 0.875rem;
+  margin: 19px auto 60px 24px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 372px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 152px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+}@font-face {
+  font-family: 'bahnschrift';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/bahnschrift.ttf);
+}

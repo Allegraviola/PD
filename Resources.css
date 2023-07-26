@@ -1,0 +1,200 @@
+ .u-section-1 {
+  background-image: url("images/rs_bg.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 802px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  width: 638px;
+  margin: 175px 27px 0 auto;
+}
+
+.u-section-1 .u-list-1 {
+  width: 547px;
+  margin: 27px 72px 60px auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  min-height: 368px;
+  grid-template-columns: 100%;
+  grid-gap: 0px 0px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 3px auto 0 10px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  margin: -3px -85px 0 10px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 3px auto 0 10px;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  margin: -3px -85px 0 10px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 3px auto 0 10px;
+}
+
+.u-section-1 .u-text-7 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  margin: -3px -85px 0 10px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 10px 0;
+}
+
+.u-section-1 .u-text-8 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 3px auto 0 10px;
+}
+
+.u-section-1 .u-text-9 {
+  font-family: bahnschrift;
+  font-size: 1.25rem;
+  margin: -3px -85px 0 10px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 661px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 91px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 527px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 91px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 527px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: 91px;
+  }
+
+  .u-section-1 .u-text-7 {
+    width: 527px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-8 {
+    width: 91px;
+  }
+
+  .u-section-1 .u-text-9 {
+    width: 527px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 520px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 520px;
+  }
+
+  .u-section-1 .u-text-7 {
+    width: 520px;
+  }
+
+  .u-section-1 .u-text-9 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 320px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 320px;
+  }
+
+  .u-section-1 .u-text-7 {
+    width: 320px;
+  }
+
+  .u-section-1 .u-text-9 {
+    width: 320px;
+  }
+}@font-face {
+  font-family: 'bahnschrift';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/bahnschrift.ttf);
+}
